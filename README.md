@@ -1,4 +1,5 @@
 # Roboticapratica
+![GitHub followers](https://img.shields.io/github/followers/SilvanMendes?label=Roboticapratica&style=social)
 Projeto do site roboticapratica.com.br
 ##Aprendendo GIT E GITHUB
 Primeiros passos.
